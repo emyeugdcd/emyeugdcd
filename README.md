@@ -1,27 +1,26 @@
-# Hi there, I'm emyeugdcd! 👋
-### Surgical Nurse 🩺 ➡️ DevOps & Cloud Engineer ☁️
+# Hi there, I'm William, a surgical nurse making my leap into DevOps & Cloud Engineering!
 
-Welcome to my profile! I am a former Surgical Nurse who made the leap into Cloud & DevOps engineering. In healthcare, precision, composure under pressure, and strict adherence to protocols mean the difference between life and death. I bring that exact same high-stakes rigor and problem-solving mindset to building secure, resilient cloud infrastructure.
+## Surgical Nurse → DevOps & Cloud Engineer
 
-I recently completed an intensive 8-project DevOps journey at **kood/sisu** (Finland), documenting every step from raw Linux VMs to full-scale enterprise GitOps on Microsoft Azure.
+Welcome to my profile! I am a surgical nurse working in HUS (Helsinki University Hospital) and making my leap into DevOps & Cloud Engineering! In the operating room, it requires surgical precision, composure under pressure, and strict adherence to protocols, not to mention constant monitoring of vital signs and appropriate actions to handle different scenarios, all for the safety and well-being of the patients. I bring that exact same high-stakes rigor and problem-solving mindset to building secure, resilient cloud infrastructure as code. I recently completed an intensive 8-project DevOps journey at **kood/sisu** (Finland), documenting every step from raw Linux VMs to full-scale enterprise GitOps on Microsoft Azure. 
 
 ---
 
-## 🚀 Featured Capstone Projects
+## Featured Capstone Projects
 
-### 🚢 [Voyager](https://github.com/emyeugdcd/voyager) | *Production-Grade Cloud Infrastructure on Azure*
+### [Voyager](https://github.com/emyeugdcd/voyager) | *Production-Grade Cloud Infrastructure on Azure*
 * **What it is:** Private Azure Kubernetes Service (AKS) cluster built with Terraform, featuring private VNets, NAT Gateway egress, federated Workload Identity, Key Vault integration via External Secrets Operator (ESO), Prometheus + Loki + Grafana observability stack, and GitLab CI/CD pipelines with manual production approval gates.
 * **Tech:** Azure, AKS, Terraform, ArgoCD, Key Vault, External Secrets Operator, Loki, Promtail, Grafana, GitLab CI.
 
-### 📊 [Cloud Cartographer](https://github.com/emyeugdcd/cloud-cartographer) | *Cloud Migration & Capacity Planning (FinOps)*
+### [Cloud Cartographer](https://github.com/emyeugdcd/cloud-cartographer) | *Cloud Migration & Capacity Planning (FinOps)*
 * **What it is:** Full cloud migration assessment and performance envelope benchmarking using Locust for 1,000 active concurrent users. Itemized multi-cloud pricing sheets (AWS vs. GCP vs. Azure) and financial governance tagging policies.
 * **Tech:** Python, Locust, AWS/GCP/Azure Calculators, FinOps Governance, Mermaid.js.
 
-### 🌌 [GitOps Galaxy](https://github.com/emyeugdcd/gitops-galaxy) | *Declarative Continuous Delivery*
+### [GitOps Galaxy](https://github.com/emyeugdcd/gitops-galaxy) | *Declarative Continuous Delivery*
 * **What it is:** Custom Helm charts and ArgoCD deployment pipeline with automatic drift correction for microservice applications and PostgreSQL databases.
 * **Tech:** ArgoCD, Helm, Kubernetes, GitOps.
 
-### 🔍 [Sherlock Logs](https://github.com/emyeugdcd/sherlock-logs) | *Centralized Observability Stack*
+### [Sherlock Logs](https://github.com/emyeugdcd/sherlock-logs) | *Centralized Observability Stack*
 * **What it is:** Complete monitoring and log aggregation setup combining Prometheus metrics, Grafana dashboards, and ELK Stack (Elasticsearch, Logstash, Kibana).
 * **Tech:** Prometheus, Grafana, ELK Stack, Docker Compose.
 
@@ -29,7 +28,7 @@ I recently completed an intensive 8-project DevOps journey at **kood/sisu** (Fin
 
 ---
 
-## 🛠️ Tech Stack & Skillset
+## Tech Stack & Skillset
 
 * **Cloud Providers:** Microsoft Azure (AKS, Key Vault, VNet, Blob Storage, ACR, NAT Gateway)
 * **Infrastructure as Code:** Terraform
@@ -40,8 +39,8 @@ I recently completed an intensive 8-project DevOps journey at **kood/sisu** (Fin
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
-- 📍 Based in Finland 🇫🇮
-- 💬 Learning Finnish (A2 / B1)
-- 💼 Open to DevOps, Platform Engineering, and Cloud Infrastructure roles!
+- Based in Finland
+- Speaking English, Finnish, Vietnamese
+- Open to DevOps, Platform Engineering, and Cloud Infrastructure roles!

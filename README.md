@@ -56,5 +56,5 @@ Welcome to my profile! I am a surgical nurse working in HUS (Helsinki University
 ## Connect with Me
 
 - Based in Finland 🇫🇮
-- Speaking English, Finnish, Vietnamese, and a bit of Swedish
+- Speaking English, Finnish, Vietnamese, and a bit of Swedish.
 - Open to DevOps, Platform Engineering, and Cloud Infrastructure roles!

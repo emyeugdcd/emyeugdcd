@@ -1,6 +1,6 @@
 # Hi there, I'm William, a surgical nurse making my leap into DevOps & Cloud Engineering!
 
-## Surgical Nurse 🧑🏻‍⚕️ → DevOps & Cloud Engineer ☁️ 💻
+## Surgical Nurse → DevOps & Cloud Engineer 
 
 Welcome to my profile! I am a surgical nurse working in HUS (Helsinki University Hospital) and making my leap into DevOps & Cloud Engineering! In the operating room, it requires surgical precision, composure under pressure, and strict adherence to protocols, not to mention constant monitoring of vital signs and appropriate actions to handle different scenarios, all for the safety and well-being of the patients. I bring that exact same high-stakes rigor and problem-solving mindset to building secure, resilient cloud infrastructure as code. I recently completed an intensive 8-project DevOps journey at **kood/sisu** (Finland), documenting every step from raw Linux VMs to full-scale enterprise GitOps on Microsoft Azure. 
 

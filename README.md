@@ -1,9 +1,12 @@
-# Hi there, I'm William, a surgical nurse and a cybersecurity student with experiences in DevOps & Cloud Engineering, aspiring to be a DevSecOps Engineer!
+# Hi, I'm William 👋
 
-## Surgical Nurse → DevOps & Cloud Engineer 
+## News Anchor →  Surgical Nurse → Cloud & DevSecOps Engineer
 
-Welcome to my profile! I am a surgical nurse working in HUS (Helsinki University Hospital) and also a Cybersecurity Student in Degree Programme of Business Information Technology, Cybersecurity in Laurea University of Applied Sciences. In the operating room, it requires utmost precision, composure under pressure, and strict adherence to protocols, not to mention constant monitoring of vital signs and appropriate actions to handle different scenarios, all for the safety and well-being of the patients. I hope to bring that exact same mindset to building secure, resilient cloud infrastructure as code as I progress further in my study and career as a DevSecOps Engineer. I recently completed an intensive 8-project DevOps journey at **kood/sisu** (Finland), documenting every step from raw Linux VMs to full-scale enterprise GitOps on Microsoft Azure. 
-Before all of this, I used to work as a news anchor and reporter for VTV - Vietnamese National Television. 
+I am a surgical nurse at HUS (Helsinki University Hospital) and a Cybersecurity student at Laurea University of Applied Sciences, transitioning into Cloud and DevSecOps engineering.
+
+Operating rooms demand composure under pressure, meticulous precision, and strict protocol adherence. I hope to bring that same patient-safety mindset to building secure, resilient, and observable cloud infrastructure as code.
+
+I recently completed an intensive 8-project DevOps curriculum at **kood/sisu** (Finland), documenting every step from raw Linux VMs to full-scale enterprise GitOps on Microsoft Azure. Prior to tech and healthcare, I was a news anchor and reporter for Vietnam National Television (VTV). 
 
 ---
 
